@@ -9,14 +9,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Maxime422/DASHBOARD.git"
+		"url": "git+https://github.com/Maxime422/TEMPLATE.git"
 	},
 	"author": "Maxime Germis",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Maxime422/DASHBOARD/issues"
+		"url": "https://github.com/Maxime422/TEMPLATE/issues"
 	},
-	"homepage": "https://github.com/Maxime422/DASHBOARD#readme",
+	"homepage": "https://github.com/Maxime422/TEMPLATE#readme",
 	"dependencies": {
 		"express": "^4.21.2",
 		"lodash": "^4.17.21",
