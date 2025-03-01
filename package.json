@@ -1,7 +1,7 @@
 {
-	"name": "dashboard",
+	"name": "nomprojet",
 	"version": "1.0.0",
-	"description": "Dashboard Projet Mangagement",
+	"description": "Description du Projet",
 	"main": "index.js",
 	"scripts": {
 		"format": "prettier . --check",
@@ -9,14 +9,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Maxime422/TEMPLATE.git"
+		"url": "git+https://github.com/Maxime422/.git"
 	},
 	"author": "Maxime Germis",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Maxime422/TEMPLATE/issues"
+		"url": "https://github.com/Maxime422/.../issues"
 	},
-	"homepage": "https://github.com/Maxime422/TEMPLATE#readme",
+	"homepage": "https://github.com/Maxime422/...#readme",
 	"dependencies": {
 		"express": "^4.21.2",
 		"lodash": "^4.17.21",
@@ -24,10 +24,12 @@
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.19.0",
+		"cypress": "^14.1.0",
 		"eslint": "^9.19.0",
 		"eslint-config-prettier": "^10.0.1",
 		"eslint-plugin-prettier": "^5.2.3",
 		"globals": "^15.14.0",
+		"jest": "^29.7.0",
 		"prettier": "3.4.2"
 	}
 }
