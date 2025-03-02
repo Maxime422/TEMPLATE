@@ -5,8 +5,7 @@
 	"useTabs": true,
 	"trailingComma": "all",
 	"arrowParens": "always",
-	"printWidth": 1000,
+	"printWidth": 0,
 	"bracketSpacing": false,
-	"htmlWhitespaceSensitivity": "ignore",
-	"singleAttributePerLine": false
+	"htmlWhitespaceSensitivity": "ignore"
 }
